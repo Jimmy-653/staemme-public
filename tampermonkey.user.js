@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Stämme Bot
 // @namespace    https://raw.githubusercontent.com/Jimmy-653/staemme-public
-// @version      2.1.0_99_89791aa2f311ee516aee38c81d41b229b92d2c02
+// @version      2.1.0_100_f6b07607e57c7ec311a720b2a407b60337fe2fc9
 // @description  Create a "Bot" menu in online game Tribal Wars to automate various game actions.
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @author       Jimmy653
